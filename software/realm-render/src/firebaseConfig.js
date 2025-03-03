@@ -1,5 +1,5 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBf7nypCQyf67H0DHd6GkefFjjhJ6T5JWw",
+  apiKey: "",
   authDomain: "realm-render-22cc4.firebaseapp.com",
   databaseURL: "https://realm-render-22cc4-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "realm-render-22cc4",
